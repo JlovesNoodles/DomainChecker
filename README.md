@@ -1,6 +1,6 @@
 How to use.
 
-1. run https://github.com/JlovesNoodles/DomainChecker.git on your terminal
+1. run git clone https://github.com/JlovesNoodles/DomainChecker.git on your terminal
 
 2. chmod +x domain.sh
 
