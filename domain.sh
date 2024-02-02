@@ -44,7 +44,7 @@ function domainchecker() {
 	echo "printing domain not using google"
 	cat results/googleresults/notgoogleusingdomain.txt
         
-        
+	rm -r results
         
         
     elif [[ $user_choice == "M" || $user_choice == "m" ]]; then
@@ -75,7 +75,7 @@ function domainchecker() {
 	echo "printing domain not using Microsoft"
 	cat results/microsoftresults/notmicrosoftusingdomain.txt  
  
-
+	rm -r results
    
    
     else
