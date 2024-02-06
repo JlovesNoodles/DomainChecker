@@ -1,3 +1,6 @@
+NOTE: Install lolcat first for better aesthetic though not necessary
+
+
 How to use.
 
 1. run git clone https://github.com/JlovesNoodles/DomainChecker.git on your terminal
